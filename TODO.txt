@@ -1,6 +1,10 @@
-Add option to delete created rides.
+->Add option to delete created rides.
+->
 limit maximum number of rides, ask max allowed when creating.
+->
 change star logo with add/seat logo
 show remaining seats.
-ride history.
+
+->ride history.
+->
 private chat option.
