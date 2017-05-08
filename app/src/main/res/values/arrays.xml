@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="places">
+        <item>Be an Auto Rider</item>
+        <item>Be a Cab Rider</item>
+        <item>Create a Ride</item>
+    </string-array>
+    <string-array name="place_desc">
+        <item>Find an Auto helps you to find other Autos that</item>
+        <item>Find a Cab helps you to find other Cabs that</item>
+        <item>Create a Ride Helps you to create rides that other users can find</item>
+
+    </string-array>
+    <string-array name="place_details">
+        <item>Be an auto rider helps you find other riders nearby that have created an auto ride and are going to the same destination as you.
+            This helps you save some money every time you ride an auto. Also
+            since charges on services like Ola Auto and Jugnoo are much less
+            compared to conventional autos run by auto unions there is a big
+            difference in the amount you need to pay using this service.
+        </item>
+        <item>
+            Be a cab rider helps you find other riders nearby that have
+            created a cab ride and are going to the same destination as you.
+            This helps you save some money every time you ride an cab. Cabs
+            are usually very costly when taken alone but with the help of rider you can find
+            other people who wish to go to the same destination. Thus you can sit easily in
+            comfort and enjoy the AC in the cab. Sit back and be a Rider.
+        </item>
+        <item>Create a ride helps you create a cab or an auto ride whichever you prefer.
+            Other Riders nearby who also wish to go to same place can contact you via the app
+            and you dont need to share your personal information such as phone number or email with
+            strangers. Once you create a ride other users can instantly find your ride and contact
+            you via the app.
+        </item>
+
+
+    </string-array>
+    <string-array name="place_locations">
+        <item>Amity University \n(we currently support only this location.
+        Other places might be added in the future versions)</item>
+        <item>Amity University \n(we currently support only this location.
+        Other places might be added in the future versions)</item>
+        <item>Amity University \n(we currently support only this location.
+        Other places might be added in the future versions)</item>
+    </string-array>
+
+    <array name="places_picture">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+    </array>
+</resources>

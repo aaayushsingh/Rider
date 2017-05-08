@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Rider</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Welcome!</string>
+    <string name="title_activity_login_signup">Sign in</string>
+    <string name="facebook_app_id">1005045686260514</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="google_title_text">Google Sign In</string>
+
+    <string name="welcome">Welcome: %s</string>
+
+    <string name="facebook_status_fmt">Facebook User: %s</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="title_activity_nav_drawer">NavDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="item_title">Be An Auto Rider</string>
+    <string name="item_desc">Find an Auto helps you to find other Autos that &#8230;</string>
+    <string name="detail_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+    </string>
+    <string name="detail_location">Amity University \n(we currently support only this location.\n
+        Other places might be added in the future versions)
+    </string>
+    <string name="Description">Description</string>
+    <string name="location">Starting Point</string>
+    <string name="find_an_auto">Find an Auto</string>
+    <string name="find_a_cab">Find a Cab</string>
+    <string name="create_a_ride">Create a Ride</string>
+    <string name="auto_desc">Find an Auto helps you to find other Autos that &#8230;</string>
+    <string name="cab_desc">Find a Cab helps you to find other Cabs that &#8230;</string>
+    <string name="create_desc">Create a Ride Helps you to create rides that other users can find &#8230;</string>
+    <string name="auto_title">Be An Auto Rider</string>
+    <string name="create_ride">Create a Ride</string>
+    <string name="title_cab">Be a Cab Rider</string>
+    <string name="hint_email">Email</string>
+    <string name="menu_logout">Logout</string>
+    <string name="description_new_ride">Description...</string>
+    <string name="lorem">Lorem Ipsum</string>
+
+
+</resources>
